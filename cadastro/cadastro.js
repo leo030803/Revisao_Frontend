@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:3000/produtos";
+const API_BASE = "http://localhost:3000/cadastro";
 
 const form = document.querySelector("#cadastro-form");
 const statusEl = document.querySelector("#form-status");
